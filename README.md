@@ -1,7 +1,7 @@
 # Image to C array converter
 
 Takes input image as an argument and creates .h C header file with image structure defined as followed:
-```
+```C
 typedef struct {
 	const uint16_t width;
 	const uint16_t height;
