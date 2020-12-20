@@ -4,3 +4,6 @@
 *.jpeg
 *.bmp
 *.gif
+
+# build
+/build/*
