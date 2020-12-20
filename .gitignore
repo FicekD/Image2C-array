@@ -6,4 +6,4 @@
 *.gif
 
 # build
-/build/*
+./build/*
